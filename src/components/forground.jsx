@@ -48,24 +48,6 @@ const Forground = () => {
                         <Cards image = 'https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/316040078_147227678055109_3227554195834781209_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=op6-Tf3_wuMAX8IAdiK&_nc_ht=scontent-mia3-2.xx&oh=00_AfAgujdAwlL3_TSAgtNfVa9xk_piHi9JaXVDDX3SHo6G3g&oe=65BAC121' 
                         name = 'Milky Waves Soft Serve' style = 'American Desert' link = 'https://www.facebook.com/milkywavesicecream/'/>
                     </tr>
-                    <tr>
-                        
-                    </tr>
-                    <tr>
-                        
-                    </tr>
-                    <tr>
-                        
-                    </tr>
-                    <tr>
-                        
-                    </tr>
-                    <tr>
-                        
-                    </tr>
-                    <tr>
-                        
-                    </tr>
                 </tbody>
             </table>
         </div>
